@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/mohan-udayana/">
     <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mohanudayana@gmail.com">
+  <a href="mailto:mohanudayana@gmail.com">
     <img src="https://img.shields.io/badge/-HIRE%20ME-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
