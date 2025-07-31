@@ -1,5 +1,5 @@
-<h1 align="center"> Hi👋, I'm Aditya Mohan Udayana</h1>
-<h3 align="center">A passionate DevOps | DevOps Engineer </h3>
+<h1 align="center"> Hi👋, I'm Mohan Udayana</h1>
+<h3 align="center">A passionate DevOps | DevSecOps Engineer </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mohan-udayana/">
     <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-HIRE%20ME-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ---
 
 ## 🛠️ Technical Arsenal
