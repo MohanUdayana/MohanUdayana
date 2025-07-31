@@ -78,10 +78,10 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanUdayana&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanUdayana&layout=compact&theme=dark" width="48%">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohanUdayana&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohanUdayana&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
 
 ---
 
