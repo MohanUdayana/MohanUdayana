@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi👋, I'm Mohan Udayana</h1>
 
-/*<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
-</div> */
+</div> */ -->
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
 
