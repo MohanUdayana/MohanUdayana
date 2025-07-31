@@ -1,8 +1,10 @@
 <h1 align="center"> Hi👋, I'm Mohan Udayana</h1>
-<h3 align="center">A passionate DevOps | DevSecOps Engineer </h3>
+<h3 align="center">A passionate DevOps | DevSecOps Engineer</h3>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohanudayana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mohan-udayana/">
     <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -11,7 +13,10 @@
     <img src="https://img.shields.io/badge/-HIRE%20ME-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+---
 
 ## 🛠️ Technical Arsenal
 
@@ -86,7 +91,7 @@
   <a href="https://www.linkedin.com/in/mohan-udayana/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mohanudayana@gmail.com">
+  <a href="mailto:mohanudayana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
