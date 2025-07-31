@@ -1,10 +1,10 @@
-# 🚀 DevOps Engineer | Cloud & Kubernetes Specialist
-
+<h1 align="center"> Hi👋, I'm Aditya Mohan Udayana</h1>
+<h3 align="center">A passionate DevOps | DevOps Engineer </h3>
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/mohan-udayana/">
     <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mohanudayana@gmail.com">
     <img src="https://img.shields.io/badge/-HIRE%20ME-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -71,8 +71,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanUdayana&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanUdayana&layout=compact&theme=dark" width="48%">
 </p>
 
 ---
@@ -80,10 +80,10 @@
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/mohan-udayana/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mohanudayana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
